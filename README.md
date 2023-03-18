@@ -1,4 +1,4 @@
 # GitHubActions
 GitHub Actions development
 
-This is a demo repository for prcaticing Git and GitHub.
+This is a demo repository for practicing Git and GitHub.
